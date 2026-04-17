@@ -1,36 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Untab</title>
         <item>
             <title>1.0.0</title>
             <pubDate>Fri, 17 Apr 2026 14:53:15 +0000</pubDate>
-            <sparkle:version>14</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/meetfranz/untab/commits/1.0.0
-]]></description>
-            <enclosure url="https://meetfranz.github.io/untab-release/downloads/Franz-Untab.dmg" length="5780539" type="application/octet-stream" sparkle:edSignature="Knm+6woDRPYdWMg3NrvAoR7+c8LBUT41eP8jR+kig+2fArGsxg5wWV4PipGizXOpjESvEdLYnh48SnOKAWmGDA=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Fri, 17 Apr 2026 14:30:20 +0000</pubDate>
-            <sparkle:version>11</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/meetfranz/untab/commits/1.0.0
-]]></description>
-            <enclosure url="https://meetfranz.github.io/untab-release/downloads/Franz-Untab.dmg" length="3989745" type="application/octet-stream" sparkle:edSignature="MywW5XFg0frk0ut/wWbzvDKh9ckidarsOy3df2524NxzsH9q1LG9Mkce9mlwJrfS0/I/LJSd7XjFjN5CmnOKDQ=="/>
-        </item>
-        <item>
-            <title>1.0.0</title>
-            <pubDate>Fri, 17 Apr 2026 14:07:36 +0000</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/meetfranz/untab/commits/1.0.0
-]]></description>
-            <enclosure url="https://meetfranz.github.io/untab-release/downloads/Franz-Untab.dmg" length="3989737" type="application/octet-stream" sparkle:edSignature="n1C/leK1q5K4+nsSeJhzEZNO/b3Obz7zNPflJd3KQKj+eS4OV5KhxS+Vojpe3SlqQm8+bOBNO0s9YKeu3V9UDA=="/>
+            <ns0:version>14</ns0:version>
+            <ns0:shortVersionString>1.0.0</ns0:shortVersionString>
+            <ns0:minimumSystemVersion>13.0</ns0:minimumSystemVersion>
+            <description ns0:format="markdown">**Full Changelog**: https://github.com/meetfranz/untab/commits/1.0.0
+</description>
+            <enclosure url="https://meetfranz.github.io/untab-release/downloads/Franz-Untab.dmg" length="5780539" type="application/octet-stream" ns0:edSignature="Knm+6woDRPYdWMg3NrvAoR7+c8LBUT41eP8jR+kig+2fArGsxg5wWV4PipGizXOpjESvEdLYnh48SnOKAWmGDA==" />
         </item>
     </channel>
 </rss>
