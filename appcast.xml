@@ -1,16 +1,16 @@
 <?xml version="1.0" standalone="yes"?>
-<rss xmlns:ns0="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
         <title>Untab</title>
         <item>
             <title>1.0.0</title>
             <pubDate>Fri, 17 Apr 2026 14:53:15 +0000</pubDate>
-            <ns0:version>14</ns0:version>
-            <ns0:shortVersionString>1.0.0</ns0:shortVersionString>
-            <ns0:minimumSystemVersion>13.0</ns0:minimumSystemVersion>
-            <description ns0:format="markdown">**Full Changelog**: https://github.com/meetfranz/untab/commits/1.0.0
-</description>
-            <enclosure url="https://meetfranz.github.io/untab-release/downloads/Franz-Untab.dmg" length="5780539" type="application/octet-stream" ns0:edSignature="Knm+6woDRPYdWMg3NrvAoR7+c8LBUT41eP8jR+kig+2fArGsxg5wWV4PipGizXOpjESvEdLYnh48SnOKAWmGDA==" />
+            <sparkle:version>14</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/meetfranz/untab/commits/1.0.0
+]]></description>
+            <enclosure url="https://meetfranz.github.io/untab-release/downloads/Franz-Untab.dmg" length="5780539" type="application/octet-stream" sparkle:edSignature="Knm+6woDRPYdWMg3NrvAoR7+c8LBUT41eP8jR+kig+2fArGsxg5wWV4PipGizXOpjESvEdLYnh48SnOKAWmGDA=="/>
         </item>
     </channel>
 </rss>
