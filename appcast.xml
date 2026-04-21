@@ -3,6 +3,16 @@
     <channel>
         <title>Untab</title>
         <item>
+            <title>1.0.1</title>
+            <pubDate>Tue, 21 Apr 2026 13:19:24 +0000</pubDate>
+            <sparkle:version>15</sparkle:version>
+            <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <description sparkle:format="markdown"><![CDATA[**Full Changelog**: https://github.com/meetfranz/untab/compare/1.0.0...v1.0.1
+]]></description>
+            <enclosure url="https://meetfranz.github.io/untab-release/downloads/Franz-Untab.dmg" length="5476426" type="application/octet-stream" sparkle:edSignature="8bUZGuA9kAS5Kb8ODVobqZZiwqGNTGpjrykLRM0N9Oc3i3z1LeKeEQe2QQMLudvIzdh0qD5mTHzg7L3CajZEAg=="/>
+        </item>
+        <item>
             <title>1.0.0</title>
             <pubDate>Fri, 17 Apr 2026 14:53:15 +0000</pubDate>
             <sparkle:version>14</sparkle:version>
